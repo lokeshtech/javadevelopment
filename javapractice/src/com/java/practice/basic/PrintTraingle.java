@@ -27,7 +27,4 @@ public class PrintTraingle {
 			System.out.println();
 		}
 	}
-
-	// Driver Function
-
 }
